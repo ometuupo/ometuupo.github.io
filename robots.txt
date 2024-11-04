@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ometuupo.github.io/EbY/sitemap_index.txt
+Sitemap: https://ometuupo.github.io/SUG/sitemap_index.txt
+Sitemap: https://ometuupo.github.io/eTH/sitemap_index.txt
+Sitemap: https://ometuupo.github.io/hXN/sitemap_index.txt
